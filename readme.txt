@@ -1,3 +1,18 @@
+10For2 Fork 10/2/13
+
+Contributors: 10For2 | Jason Chipman
+
+== Changelog == 
+
+= .1 =
+
+*Changed to force Last name, First name as the display name.
+*Renamed file accordingly
+
+==================================================================================
+
+Original Author Readme:
+
 === Force First and Last Name as Display Name ===
 Contributors: strangerstudios
 Tags: display name, force, firstname, first name, lastname, last name, display_name
